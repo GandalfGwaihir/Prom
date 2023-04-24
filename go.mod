@@ -1,3 +1,3 @@
-module github.com/RohanSasne/Prom
+module main
 
 go 1.18
